@@ -7,3 +7,5 @@ Cosmopolitan Status Of New societies
 Level of Income
 
 Educational Background
+
+Cultural Background
